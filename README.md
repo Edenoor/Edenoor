@@ -20,6 +20,6 @@ export default const Nico = {
 
 
 
-[^LinkedIn]: https://www.linkedin.com/in/nicolas-beltrame-25886221b
-[^Mail]: nicoolasbeltrame@gmail.com
+^LinkedIn: https://www.linkedin.com/in/nicolas-beltrame-25886221b
+^Mail: nicoolasbeltrame@gmail.com
 
